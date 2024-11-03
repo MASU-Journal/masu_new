@@ -30,7 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $destinationFile = $filePath.'.html';
 
             // Get PDF metadata using pdfinfo
-            $command = "$popplerBin/pdftohtml -s -noframes $pdfFile $destinationFile";
+            $command = "pdftohtml -s -noframes $pdfFile $destinationFile";
 
             $output = shell_exec($command);
 
