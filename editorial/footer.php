@@ -28,6 +28,6 @@
                 });
             });
         </script>
-        <script src="https://cdn.tiny.cloud/1/ogxmq0n02btlshhdby9xkcgvi63ct8n1a3o9na2sruevg3zw/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+        <script src="https://cdn.tiny.cloud/1/hckpipxf24vecn5lcc2nujkxwthg1o9ehnpv6b6yajid4w2b/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
     </body>
 </html>
