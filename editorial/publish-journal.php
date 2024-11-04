@@ -303,6 +303,7 @@ for($i=-1;$i<10;$i++) {
             selector: '#myEditor',
             height: "700px",
             statusbar: false,
+            content_style: "div { position: relative; margin: 1em 0px; } p { position: absolute; white-space: pre; margin: 0 }",
             plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks',
             toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table | align lineheight | numlist bullist indent outdent | emoticons charmap | removeformat',
         });
